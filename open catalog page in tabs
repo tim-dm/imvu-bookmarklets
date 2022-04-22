@@ -1,0 +1,19 @@
+let productLinks = [];
+const linksEl = document.querySelectorAll(".thumbnail-link");
+
+/*Loop through all the links and pull out product
+page links only and add them to the array.*/
+linksEl.forEach((link) => {
+	if(link.href.indexOf("product.php?products_id=") != -1) {
+		productLinks.push(link.href);
+	}
+});
+
+//remove duplicate links
+const uniqueProducts = [ ...new Set(productLinks) ];
+
+console.log(uniqueProducts);
+
+for(let j = 0; j < uniqueProducts.length; j++) {
+	window.open(uniqueProducts[j], "_blank");
+}
