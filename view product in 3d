@@ -1,0 +1,10 @@
+/*Get the product page url*/
+let productUrl = document.URL;
+
+if(productUrl != "" && productUrl.indexOf("imvu.com/shop/product.php?products_id=") != -1) {
+  /*Get the product pid*/
+   let pid = productUrl.split("=")[1];
+
+  /* Load the new page */
+  window.location = "https://api.imvu.com/image_dressup/" + pid
+}
