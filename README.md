@@ -33,3 +33,9 @@ Simply visit a product page in the [Shop](https://www.imvu.com/shop/) and run th
 Generates a clickable product icon that will take you the product page in html. For use in web pages, blogs and other places that support html content. 
 
 Simply visit a product page in the [Shop](https://www.imvu.com/shop/) and run the bookmarklet. A popup will appeard with the html for you to copy/paste.
+
+
+
+## [view clothing product avatar preview](https://github.com/tim-dm/imvu-bookmarklets/blob/main/view%20clothing%20product%20avatar%20preview)
+
+Generates an image of a default avatar wearing the clothing product so you can see what it looks like.
