@@ -22,20 +22,28 @@ Simply open any products in scene page and run the bookmarklet.
 
 ## [generate clickable product icon bbcode](https://github.com/tim-dm/imvu-bookmarklets/blob/main/pis%20hidden%20product%20finder.js)
 
-Generates a clickable product icon that will take you the product page in bbcode. For use in forum posts and other places that support bbcode. 
-
-Simply visit a product page in the [Shop](https://www.imvu.com/shop/) and run the bookmarklet. A popup will appeard with the bbcode for you to copy/paste.
+>Generates a clickable product icon that will take you the product page in bbcode. For use in forum posts and other places that support bbcode. 
+>
+>Simply visit a product page in the [Shop](https://www.imvu.com/shop/) and run the bookmarklet. A popup will appeard with the bbcode for you to copy/paste.
 
 
 
 ## [generate clickable product icon html](https://github.com/tim-dm/imvu-bookmarklets/blob/main/generate%20clickable%20product%20icon%20html.js)
 
-Generates a clickable product icon that will take you the product page in html. For use in web pages, blogs and other places that support html content. 
-
-Simply visit a product page in the [Shop](https://www.imvu.com/shop/) and run the bookmarklet. A popup will appeard with the html for you to copy/paste.
+>Generates a clickable product icon that will take you the product page in html. For use in web pages, blogs and other places that support html content. 
+>
+>Simply visit a product page in the [catalog](https://www.imvu.com/shop/) and run the bookmarklet. A popup will appeard with the html for you to copy/paste.
 
 
 
 ## [view clothing product avatar preview](https://github.com/tim-dm/imvu-bookmarklets/blob/main/view%20clothing%20product%20avatar%20preview)
 
-Generates an image of a default avatar wearing the clothing product so you can see what it looks like.
+>Generates an image of a default avatar wearing the clothing product so you can see what it looks like.
+
+
+
+## [open catalog page in tabs](https://github.com/tim-dm/imvu-bookmarklets/blob/main/open%20catalog%20page%20in%20tabs)
+
+>Opens all of the products on a catalog page in new tabs.
+>
+>Simply visit any page in the [catalog](https://www.imvu.com/shop/)
